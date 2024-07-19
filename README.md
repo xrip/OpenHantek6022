@@ -1,9 +1,4 @@
-# Please Help the Victims of the War!
-**Openhantek6022** is a project where people from all over the world collaborate peacefully, regardless of where they live.
-If you are lucky enough to live in peace, please [**donate**](https://www.icrc.org/en/donate/ukraine) 
-to the *International Committee of the Red Cross*.
-
-![blue-yellow](docs/images/blue-yellow.png)
+For use with https://github.com/dgatf/oscilloscope_rp2040
 
 # OpenHantek6022
 [![GitHub CI](https://github.com/OpenHantek/OpenHantek6022/actions/workflows/build.yml/badge.svg)](https://github.com/OpenHantek/OpenHantek6022/actions/workflows/build.yml)
